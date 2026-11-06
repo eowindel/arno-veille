@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0"><head><title>La Vigie</title></head><body>
 <outline type="rss" text="La Vigie · IA" title="La Vigie · IA" xmlUrl="https://veille.casarou.com/ia/feed.xml" htmlUrl="https://veille.casarou.com/ia/"/>
+<outline type="rss" text="La Vigie · BIM" title="La Vigie · BIM" xmlUrl="https://veille.casarou.com/bim/feed.xml" htmlUrl="https://veille.casarou.com/bim/"/>
 </body></opml>
