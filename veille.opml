@@ -2,4 +2,8 @@
 <opml version="2.0"><head><title>La Vigie</title></head><body>
 <outline type="rss" text="La Vigie · IA" title="La Vigie · IA" xmlUrl="https://veille.casarou.com/ia/feed.xml" htmlUrl="https://veille.casarou.com/ia/"/>
 <outline type="rss" text="La Vigie · BIM" title="La Vigie · BIM" xmlUrl="https://veille.casarou.com/bim/feed.xml" htmlUrl="https://veille.casarou.com/bim/"/>
+<outline type="rss" text="La Vigie · PLM" title="La Vigie · PLM" xmlUrl="https://veille.casarou.com/plm/feed.xml" htmlUrl="https://veille.casarou.com/plm/"/>
+<outline type="rss" text="La Vigie · 3DEXPERIENCE" title="La Vigie · 3DEXPERIENCE" xmlUrl="https://veille.casarou.com/3dexperience/feed.xml" htmlUrl="https://veille.casarou.com/3dexperience/"/>
+<outline type="rss" text="La Vigie · Impression 3D" title="La Vigie · Impression 3D" xmlUrl="https://veille.casarou.com/impression3d/feed.xml" htmlUrl="https://veille.casarou.com/impression3d/"/>
+<outline type="rss" text="La Vigie · XR" title="La Vigie · XR" xmlUrl="https://veille.casarou.com/xr/feed.xml" htmlUrl="https://veille.casarou.com/xr/"/>
 </body></opml>
